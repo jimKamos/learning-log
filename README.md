@@ -1,11 +1,16 @@
 # learning-log
 
-Self-teaching log for the frontend comeback roadmap. One file per session.
+A record of returning to frontend development after five years away, one file
+per working session. Following a structured roadmap covering web fundamentals,
+JavaScript, TypeScript, React and Next.js.
 
-| Session | Module | Covered | Done |
-|---|---|---|---|
-| S01–S02 | M0 Setup | Node, VS Code, Git/SSH, Claude Code, Vite | ✅ |
-| S03 | C1.1 pt 1 | DNS, TCP/TLS, HTTP anatomy, methods, status codes | ✅ |
-| S04 | C1.1 pt 2 | Headers, cookies, caching | ✅ |
+Each session is `sNN.md` and follows the same shape: **Did / Broke / Learned /
+Next**. The *Broke* section is deliberate — tooling failures, wrong turns and
+misconceptions I had to correct are the parts worth re-reading, so they get
+recorded as prominently as the things that worked.
 
-**Checkpoints:** M0 ✅ · C1 not met — needs the "URL to pixels" write-up after C1.2.
+Files named for a topic rather than a session (`cors-lab.md`) hold reference
+material that outlived the session it came from.
+
+Notes are written in my own words rather than copied from documentation. That's
+the point of keeping them.
